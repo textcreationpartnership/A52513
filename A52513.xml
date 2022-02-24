@@ -1,0 +1,325 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A collection of twenty-three prophecies and predictions of the famous Michael Nostrodamvs, the learned astrologer of France, as they concern and point at these times together with their explanations foretelling many strange and wonderful things about to happen in England, France, and Ireland : but more particularly the success of our arms in the later revolution and what we may farther expect with the miseries threatning the kingdom of France before the year one thousand six hundred ninety-one be over ...</title>
+            <author>Nostradamus, 1503-1566.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52513</idno>
+            <idno type="STC">Wing N1397</idno>
+            <idno type="STC">ESTC R32233</idno>
+            <idno type="EEBO-CITATION">12562850</idno>
+            <idno type="OCLC">ocm 12562850</idno>
+            <idno type="VID">63281</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52513)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63281)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1022:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A collection of twenty-three prophecies and predictions of the famous Michael Nostrodamvs, the learned astrologer of France, as they concern and point at these times together with their explanations foretelling many strange and wonderful things about to happen in England, France, and Ireland : but more particularly the success of our arms in the later revolution and what we may farther expect with the miseries threatning the kingdom of France before the year one thousand six hundred ninety-one be over ...</title>
+                  <author>Nostradamus, 1503-1566.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by Randal Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXC [1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prophecies.</term>
+               <term>Great Britain --  Prophecies.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:63281:1"/>
+            <pb facs="tcp:63281:1" rendition="simple:additions"/>
+            <p>A COLLECTION OF Twenty-Three PROPHECIES AND <hi>Predictions</hi> Of the Famous <hi>MICHAEL NOSTRODAM<g ref="char:V">Ʋ</g>S,</hi> the Learned Aſtrologer of <hi>France,</hi> as they Concern and Point at theſe Times.</p>
+            <p>TOGETHER With their Explanations, foretelling many Strange and Won<g ref="char:EOLhyphen"/>derful Things, about to happen in <hi>England, France,</hi> and <hi>Ireland;</hi> but more particularly the Succeſs of Our Arms in the Later Revolution, and what we may farther expect, with the Miſeries Threatning the Kingdom of <hi>France,</hi> Before the Year One Thouſand Six Hundred Ninety One be Over.</p>
+            <p>This following Prophecy was writ by an <hi>Engliſh Bard.</hi> above One hundred Years ſince.</p>
+            <lg>
+               <head>1691</head>
+               <l>In the year when the Figures turn'd ſhall be the ſame,</l>
+               <l>Then bloody <hi>France</hi> look to't, beware your fame,</l>
+               <l>For all your Cruelties, you then ſhall pay,</l>
+               <l>And now Approaches faſt the Reckoning Day.</l>
+            </lg>
+            <p>
+               <hi>LONDON,</hi> Printed and Sold by <hi>Randal Taylor,</hi> near <hi>Stationers-Hall,</hi> MDCXC.</p>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:63281:2"/>
+            <head>ADVERTISEMENT.</head>
+            <p>WHereas the Book of Songs in <hi>Folio,</hi> ſet by Signior <hi>Pietro Reggio,</hi> conſiſting of One hundred fourty and four Cop<g ref="char:EOLhyphen"/>per Plates, curiouſly Printed upon Imperial Paper, was formerly ſold for 16 <hi>s.</hi> it is now propoſed to be ſold for 7 <hi>s.</hi> by <hi>W. Whitwood,</hi> in <hi>Duck-lane,</hi> and Mrs <hi>Feltham</hi> in <hi>Weſtminſter-hall.</hi>
+            </p>
+            <div type="part">
+               <head>And at the ſame Places this Book following.</head>
+               <p>The Hiſtory of <hi>Juſtin,</hi> taken out of the four and forty Books of <hi>Trogus Pompeius,</hi> containing the Affairs of all Ages and Coun<g ref="char:EOLhyphen"/>treys in Peace and War, from the beginning of the World, until the time of the <hi>Roman</hi> Emperours, treating of the abderites, for<g ref="char:EOLhyphen"/>ced from their Countrey by Frogs and Mice<hi>:</hi> of the Aborigines, the Abrogation of the Law for Sacrificing Men Alive, the Wars and Policies of <hi>Alexander</hi> the Great, with the Account of his Death; of <hi>Hanibal, Antigonus, Cambyſes, Scipio,</hi> and other Kings, Princes and Captains. <hi>Ariſtotle,</hi> Tutor to <hi>Alexander</hi> the Great. <hi>Ar<g ref="char:EOLhyphen"/>taxerxes</hi> had 115 Sons; the <hi>Athenians,</hi> the Inventers of Oil, Wine, and the Manufacture of Wool, <hi>Babylon</hi> builded by <hi>Semiramis,</hi> the holy Miſteries of <hi>Caeres. Cleopatria</hi> married her own Brother <hi>Pto<g ref="char:EOLhyphen"/>lomy,</hi> and the Execrable Murthers committed by him. The <hi>Cy<g ref="char:EOLhyphen"/>prian</hi> Virgins provide themſelves Dowries, by proſtitution of their Bodies. <hi>Darius</hi> bound by his own Men in Golden Chains. <hi>Naero</hi> defiles his own Mother. <hi>Joſeph</hi> preſerved in <hi>Aegypt</hi> from Famine, his Interpretation of Dreams<hi>: Micheus</hi> Crucified by his own Father, a <hi>Phaenix</hi> ſeen in <hi>Aegypt,</hi> and in what Place the Giants made War againſt Heaven, with variety of other Hi<g ref="char:EOLhyphen"/>ſtories Tranſlated into <hi>Engliſh</hi> by <hi>Rob. Codrington,</hi> Maſter of Arts. Sold by <hi>W. Whitwood</hi> in <hi>Duck-lane,</hi> Mrs. <hi>Feltham</hi> in <hi>Weſt<g ref="char:EOLhyphen"/>minſter-Hall.</hi>
+               </p>
+            </div>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:63281:2"/>
+            <div type="notice">
+               <head>
+                  <hi>TO THE READER</hi> 
+                  <g ref="char:V">Ʋ</g>PON THESE <hi>PROPHECIES.</hi>
+               </head>
+               <opener>
+                  <salute>Reader,</salute>
+               </opener>
+               <p>AT firſt view of the Title Page, you may ask, why we bring upon the Stage at this time, the Predictions, or Prophecies of one of an An<g ref="char:EOLhyphen"/>cient Date, to which, for your better ſatisfaction, we Anſwer, that this famous Aſtrologer, eſteemed the wiſeſt and moſt experienced, did not limit them to the ſcanty space of a Year, nor to an Age, but gave his Judg<g ref="char:EOLhyphen"/>ment as to what would in all probability fall out in ſucceeding Ages, and perhaps to the end of the World; wherefore we have collected what may be moſt ſuitable to the preſent times, with an explanation as free as is reaſon<g ref="char:EOLhyphen"/>able or conjectural, in matters ſo dark and devious, the which for the better inlightning the underſtanding of Mankind, we have ſet down.</p>
+            </div>
+            <div n="1" type="prophecy">
+               <head>Prophecy 1.</head>
+               <p>
+                  <hi>TOurs, Orleance, Blois, Angers, Reus,</hi> and <hi>Nants</hi> City vexed by ſuddain change, by ſtrange Languages, Tents ſhall be ſet up, Rivers, Darts, Revenues, Land and Seas ſhall quake.</p>
+               <p>
+                  <label>Annotation.</label> This ſeems to threaten the Provinces of <hi>France</hi> with ſome extraordinary change, perhaps a Revolt, or the prevailing Arms of thoſe that are at preſent in a War againſt it, the latter being moſt conjectural, by the hint of the two laſt Verſes, or lines of the Prophecy.</p>
+            </div>
+            <div n="2" type="prophecy">
+               <head>Pro. 2.</head>
+               <p>
+                  <hi>Towars, Gaſcony,</hi> by <hi>Engliſh</hi> Aſſaults, by the ſame ſhall be m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>de great Incurſions, Rains, Froſts ſhall Mazz the Ground<g ref="char:punc">▪</g> Port <hi>Selyn</hi> ſhall make ſtrong Invaſions.</p>
+               <p>
+                  <label>Explanation.</label> Here the <hi>Engliſh</hi> are promiſed to make Incurſions into the Province of <hi>Gaſcony,</hi> part of the <hi>French</hi> King's Territories,
+<pb n="4" facs="tcp:63281:3"/>
+but the weather in thoſe Parts ſhall not be favourable, as alſo that the <hi>Turks</hi> about ſhall be fluſhed by Inroad, or Invaſion of ſome Place or Countrey.</p>
+            </div>
+            <div n="3" type="prophecy">
+               <head>Pro. 3.</head>
+               <p>
+                  <hi>Bourdeaux, Rovan,</hi> and <hi>La-Rochelle</hi> Joints will Range About up<g ref="char:EOLhyphen"/>on the Great Ocean, <hi>Engliſh</hi> Britains and <hi>Flemings</hi> joyn together, ſhall drive them away as far as <hi>Rouana.</hi>
+               </p>
+               <p>
+                  <label>Explanation.</label> This ſeems to hint at the preſent times, that the <hi>Dutch</hi> and <hi>Engliſh</hi> ſhall be ſucceſsful, and obſtruct the <hi>French,</hi> by overpowering them by Sea, and forcing them into the <hi>Rouana,</hi> or <hi>Rhoan,</hi> a City in <hi>Normaady,</hi> a City formerly ſubject to the Crown of <hi>England,</hi> and may in ſucceſs of time be happily re<g ref="char:EOLhyphen"/>gained, as it was wrongfully taken from us, during the <hi>York</hi> and <hi>Lancaſterian</hi> War, together with the whole Province, in the Reign of <hi>Henry</hi> the ſixth.</p>
+            </div>
+            <div n="4" type="prophecy">
+               <head>Pro. 4.</head>
+               <p>The <hi>Engliſh</hi> Prince <hi>Mars</hi> hath his heart from Heaven, will follow his proſperous fortune.</p>
+               <p>
+                  <label>Explanation.</label> This without doubt points at the preſent Provi<g ref="char:EOLhyphen"/>dence, in our Miraculous Deliverance, wherein God turned the hearts of the People, as of one Man, to his preſent Majeſty, ma<g ref="char:EOLhyphen"/>king him ſucceſsful againſt our devoted Enemies, to eſtabliſh him in the Throne, and forward his Undertakings in Victory and Renown.</p>
+            </div>
+            <div n="5" type="prophecy">
+               <head>Pro. 5.</head>
+               <p>The <hi>Roman</hi> power ſhall be quite put down, his great Neigh<g ref="char:EOLhyphen"/>bour ſhall follow his ſteps, Secret and Civil hatred and quarrels ſhall ſtoop the Buffoon folly.</p>
+               <p>
+                  <label>Explanation.</label> This denotes the Popiſh power in <hi>England</hi> to be overthrown, and that the ſame ſhall happen in a neighbouring Kingdom, perhaps in <hi>France,</hi> and that thoſe who keep up fudes and animoſities, may ſee their Errors, and ſtop the Buffoons folly, that is, by joyning againſt the common Enemy, and Uniting with the Intereſt of the Government.</p>
+            </div>
+            <div n="6" type="prophecy">
+               <head>Pro. 6.</head>
+               <p>The Change ſhall be very hard. The City and Country ſhall gain by the Change. A high prudent heart ſhall be put in, the unworthy expelled, Sea, Land and People ſhall change its conditions.</p>
+               <p>
+                  <label>Explanation.</label> This may be thought plainly to hint at our Late
+<pb n="5" facs="tcp:63281:3"/>
+Revolution, but we leave further the Iſſue of Providence, and the Event of our Succeedings, good for time to time, which we cordially wiſh may ever be proſperous.</p>
+            </div>
+            <div n="7" type="prophecy">
+               <head>Pro. 7.</head>
+               <p>Peace and Plenty ſhall not be long praiſed in his Reign, the Flower-de-luce ſhall be deſerted, Bodies ſhall dye, Death ſhall be brought, hoping there vanity to be buried.</p>
+               <p>
+                  <label>Expl.</label> This may denote the ſhaking of the Kingdom of <hi>France</hi> in this King's Reign, by ſome Inſurrections occaſioned by Fa<g ref="char:EOLhyphen"/>mine or Diſcontent; as likewiſe Inundations, which by a Rap<g ref="char:EOLhyphen"/>pid overflowing, ſhall carry and hinder ſome of the opportuni<g ref="char:EOLhyphen"/>ty of being buried in the Earth, though the contrary be deſired by their Friends.</p>
+            </div>
+            <div n="8" type="prophecy">
+               <head>Pro. 8.</head>
+               <p>The great Army ſhall be rejected, in a moment ſhall be wan<g ref="char:EOLhyphen"/>ted by the King, the faith promiſed a far off, ſhall be broken, ſo that he ſhall be left naked in a pitiful caſe.</p>
+               <p>
+                  <label>Expl.</label> This may ſeem to hint at the late King's brave pro<g ref="char:EOLhyphen"/>miſe with the Church of <hi>England</hi> that rais'd him to the Throne, as to the firſt paſt, and the <hi>French</hi> King's not keeping his promiſe with him as to ſecret Intrigues, which fruſtrated his purpoſes, and left him naked in a pitiful caſe when he was rejected by his people.</p>
+            </div>
+            <div n="9" type="prophecy">
+               <head>Pro. 9.</head>
+               <p>Where all well, is all good, a Sun and Moon is Exiſtent, his Ruin draweth near: The Heaven is making haſte to change that fortune into the ſame caſe, as the ſeventh Rock is.</p>
+               <p>
+                  <label>Expl.</label> This ſeems to hint at the too great Pride of <hi>France,</hi> thinking to crave other Nations, when its own Ruin is near at hand, Heaven in its Eternal decrees, perhaps having deſigned to Infatuate their councels or devices, which may be meant by the Rock, ſignifying a thing inſenſible, into which their projects and policies may be chang'd.</p>
+            </div>
+            <div n="10" type="prophecy">
+               <head>Pro. 10.</head>
+               <p>In great Regret ſhall the <hi>French</hi> Nation be, their vain and light Heart ſhall believe raſhly; they ſhall have neither Bread, Salt, Wine nor Beer. Moreover they ſhall be P<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſoners, and ſuffer hunger, cold and need.</p>
+               <p>
+                  <label>Expl.</label> This no doubt threatens the <hi>French</hi> Nation with extraor<g ref="char:EOLhyphen"/>dinary calamity, as appears by the plain words without the need
+<pb n="6" facs="tcp:63281:4"/>
+of any Interpretation than what the ſenſe may reaſonably bear to underſtanding of the meaneſt capacity.</p>
+            </div>
+            <div n="11" type="prophecy">
+               <head>Pro. 11.</head>
+               <p>Many ſhall come and take of Peace between Monarchs, and Lords very powerful; but it ſhall not be agreed too ſo ſoon, if they do not ſhew themſelves more obedient than others.</p>
+               <p>
+                  <label>Expl.</label> This may ſeem to point at the preſent affairs in publick diſcourſes, and perhaps ſome negotiations, but the matter as to the Prophecy being plain, there wants nothing but time to give a further Light into the fulfilling it, and the Submiſſion of thoſe that ſtand out in Rebellion and Oppoſition, to Render us a peaceful Nation and People.</p>
+            </div>
+            <div n="12" type="prophecy">
+               <head>Pro. 12.</head>
+               <p>There ſhall be in <hi>Guynea</hi> an infinite number of Engliſh, who ſhall occupy it by the name <hi>Angle Acquitaine</hi> of <hi>Languedock I.</hi> by the Land of <hi>Bourdeaux,</hi> which afterwards they ſhall call <hi>Barboxitain.</hi>
+               </p>
+               <p>
+                  <label>Expl.</label> This gives the Engliſh hopes of receiving the antient Rights of this Kingdom now wrongfully detained by the French.</p>
+            </div>
+            <div n="13" type="prophecy">
+               <head>Pro. 13.</head>
+               <p>Againſt the Red Sex ſhall gather themſelves Fire, Water, Iron, Rape, by peace it ſhall be deſtroy'd: Thoſe that ſhall conſpire ſhall not be put to death, except one, who above all ſhall undo the work.</p>
+               <p>
+                  <label>Expl.</label> This demonſtrates the Inveteracy of the <hi>Roman</hi> faction againſt the Proteſtants, but that in the end ſignified here of their error in cruelty, and turn their fury againſt the Diſturber of <hi>Chriſtendom,</hi> who may be truly ſaid to endeavour the ruin of the Chriſtian world.</p>
+            </div>
+            <div n="14" type="prophecy">
+               <head>Pro. 14.</head>
+               <p>Peace is coming on one ſide, and War on the other: There was never ſo great a purſuing Man, Woman ſhall bewail the in<g ref="char:EOLhyphen"/>nocent blood that ſhall be ſpilt, it ſhall be in <hi>France,</hi> and on all ſides<g ref="char:punc">▪</g>
+               </p>
+               <p>
+                  <label>Expl.</label> This ſeems to promiſe happineſs to come on one ſide, and the miſeries of war on the other, as Armies in <hi>Rout, &amp;c.</hi> ſignified by the great purſuing, and the ſpilling of Blood in <hi>France,</hi> which which ſhall be lamented, but whether it ſhall be ſpilt in a Hoſtile way, or by Execution, the Author leaves doubtful.</p>
+            </div>
+            <div n="15" type="prophecy">
+               <head>Pro. 15.</head>
+               <p>Foot and Horſe upon the ſecond watch ſhall come in, deſtroy<g ref="char:EOLhyphen"/>ing
+<pb n="7" facs="tcp:63281:4"/>
+all by Sea; they ſhall come into the harbour of <hi>Marſeilles,</hi> Tears, Crys and Bloods, never was ſo bitter a time.</p>
+               <p>
+                  <label>Expl.</label> This ſignifies ſome Invaſion of <hi>France</hi> by Sea, <hi>Marſeilles,</hi> being a chief Sea part of that Kingdom, and perhaps we in a ſhort time happen to leave this Prophecy fulfilled.</p>
+            </div>
+            <div n="16" type="prophecy">
+               <head>Pro. 16.</head>
+               <p>
+                  <hi>Kidery</hi> againſt King, and Duke againſt Prince, hatred between them, and horrid diſſention, rage and fury ſhall be in every Province, great war in <hi>France,</hi> and horrid changes</p>
+               <p>
+                  <label>Expl.</label> This directly out points Wars, Miſeries and Alterations to <hi>France,</hi> inſomuch, that there ſhall be rage and fury in every Province.</p>
+            </div>
+            <div n="17" type="prophecy">
+               <head>Pro. 17.</head>
+               <p>Brooks and Rivers ſhall be a ſtopping to evil, the old flame of Anger being not yet ceaſed, ſhall run through <hi>France;</hi> take this as an Oracle, Houſes, Mannors, Pallaces, Sects ſhall be raced.</p>
+               <p>
+                  <label>Expl.</label> Here again are great calamities foretold, to ariſe from the fury of the People by Civil war in <hi>France,</hi> or by an in-aiding Enemy, wherein great ſpoil and waſte ſhall be made.</p>
+            </div>
+            <div n="18" type="prophecy">
+               <head>Pro. 18.</head>
+               <l>He that the Principality</l>
+               <l>Shall keep by great Cruelty;</l>
+               <l>At laſt ſhall ſee a great Army,</l>
+               <l>By Fire blow moſt dangerouſly;</l>
+               <l>He ſhall do better by Agreement ſtrange,</l>
+               <l>Otherways he ſhall drink the juce of <hi>Orange.</hi>
+               </l>
+               <p>
+                  <label>Expl.</label> What can be more plain than this Relation to the late K. who ſhed ſo much Blood of his Subjects in the <hi>Weſt,</hi> and other places by the hands of Hang-men; who at laſt had a great Army come againſt him, and not making any timely Agreement, he fled to <hi>France;</hi> and being Abdicated by his people, the Prince of <hi>Orange</hi> our preſent Soveraign, was firſt inveſted by the Go<g ref="char:EOLhyphen"/>vernment by the way of Adminiſtration, and ſoon after pro<g ref="char:EOLhyphen"/>claimed King.</p>
+            </div>
+            <div n="19" type="prophecy">
+               <head>Pro. 19.</head>
+               <p>The Purveyor ſhall put all in diſorder, <hi>Leech</hi> and <hi>Wolf</hi> do the burthen to me, when Mars ſhall be in the ſign of Aries, joyned with Saturn and Saturnith, the Moon then ſhall be thy greateſt Misfortune, the Sun being then in its Exaltation.</p>
+               <p>
+                  <label>Expl.</label> By the Purveyor, our Author has all along meant the
+<pb n="8" facs="tcp:63281:5"/>
+French King; by the Leech the Spaniard, and by the Wolf the Savoyard which are threatned with ſome Burnings or Ranage<g ref="char:EOLhyphen"/>ments by the French, when Mars ſhall be in the ſign of Aries, <hi>&amp;c.</hi> but when this will happen, we muſt leave to the event of time.</p>
+            </div>
+            <div n="20" type="prophecy">
+               <head>Pro. 20.</head>
+               <p>The Fleet ſhall ſtand before the City, then ſhall go away for a little while, and then take a great troop of Citizens on Land; the Fleet ſhall come back again, and recover a great deal.</p>
+               <p>
+                  <label>Expl.</label> This points at the laſt Expedition to <hi>Ireland,</hi> whereby the help of our Fleet, the City of <hi>Cork,</hi> and Town of <hi>Kingſale</hi> were reduced, and promiſes a further Succeſs, and perhaps the Redu<g ref="char:EOLhyphen"/>cing of <hi>Limerick</hi> by ſuch another undertaking.</p>
+            </div>
+            <div n="21" type="prophecy">
+               <head>Pro. 21.</head>
+               <p>O great <hi>Rome,</hi> thy Ruin draweth near, not of thy Walls, of thy Blood and Subſtance. The ſharp by Letters ſhall make ſo horrid a Notch, ſharp Iron thruſt in all to the haft.</p>
+               <p>
+                  <label>Expl.</label> This threatens the confounding of the <hi>Romiſh</hi> Superſti<g ref="char:EOLhyphen"/>tion by the ingenious and convincing Writings of ſome eminent Man, who ſhall preſs it ſo far, that the Papiſts themſelves ſhall be convinced, and fall off; which may be ſignified by the Notch, and the ſharp Iron thruſt in to the haft.</p>
+            </div>
+            <div n="22" type="prophecy">
+               <head>Pro. 22.</head>
+               <p>
+                  <hi>Leutitia</hi> in <hi>Mars,</hi> Senators ſhall be in Credit. In a Night <hi>France</hi> ſhall be troubled. The Horoſcope of the great <hi>Craeſus</hi> foretelleth, That by <hi>Saturn</hi> his Power ſhall be put down.</p>
+               <p>
+                  <label>Explan.</label> This ſeems to threaten <hi>Lewis</hi> the XIV. with ſudden Trouble in the King<g ref="char:EOLhyphen"/>dom, and that in the end his Power ſhall be put down, by which he has ſo long Ty<g ref="char:EOLhyphen"/>ranniz'd over his own, and the Subjects of other Princes where he has made Inroads and Invaſions.</p>
+            </div>
+            <div n="23" type="prophecy">
+               <head>Pro. 23.</head>
+               <l>In the Year when the Figures turn'd ſhall be the ſame,</l>
+               <l>Then bloody <hi>France</hi> look to't, beware your Fame:</l>
+               <l>For all your Cruelties you then ſhall pay,</l>
+               <l>And now Approaches faſt the Reckoning day.</l>
+               <p>
+                  <label>Expl.</label> This is an ancient Prophecy by another hand, and points directly at the year 1691. which if you obſerve to turn the 6 downward, it is a 9, if the 9 upward, it is a 6, and for the two ones, turn them which way you pleaſe, they are the ſame, the like not to be done in many years before; and thus much for theſe famous Propheſies.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
